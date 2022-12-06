@@ -5,7 +5,8 @@ Used HTML, CSS, JavaScript, Node.JS and EJS for the construction of the Code, go
 Contains details of the places you want to wander, blogs and featured desinations.
 Demo Link: https://youtu.be/V0VIjH3Js8o
 
-#Database Linking
+# Database Linking
 
 
-#Generating API key
+# Generating API key
+Go to Rapid API and search for TrueWay Places API, subscribe the API in the pricing to get the API key.
