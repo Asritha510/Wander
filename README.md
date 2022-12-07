@@ -17,3 +17,6 @@ Rename the file as serviceAccountKey.json and place it in the root of your proje
 
 # Generating API key
 Go to Rapid API and search for TrueWay Places API, subscribe the API in the pricing to get the API key.
+
+# To run the website
+Run the index.js file and type localhost:3000/signup in your browser if you didnt signup priorly, else type localhost:3000/login and give your credentials to login.
